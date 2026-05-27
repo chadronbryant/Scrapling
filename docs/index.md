@@ -56,6 +56,9 @@ MySpider().start()
 
 <!-- sponsors -->
 <div style="text-align: center;">
+  <a href="https://coldproxy.com/" target="_blank" title="Residential, IPv6 & Datacenter Proxies for Web Scraping">
+    <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/coldproxy.png" class="ad">
+  </a>
   <a href="https://hypersolutions.co/?utm_source=github&utm_medium=readme&utm_campaign=scrapling" target="_blank" title="Bot Protection Bypass API for Akamai, DataDome, Incapsula & Kasada">
     <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/HyperSolutions.png" class="ad">
   </a>
@@ -77,14 +80,14 @@ MySpider().start()
   <a href="https://substack.thewebscraping.club/p/scrapling-hands-on-guide?utm_source=github&utm_medium=repo&utm_campaign=scrapling" target="_blank" title="The #1 newsletter dedicated to Web Scraping">
     <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/TWSC.png" class="ad">
   </a>
-  <a href="https://proxy-seller.com/?partner=CU9CAA5TBYFFT2" target="_blank" title="Proxy-Seller provides reliable proxy infrastructure for Web Scraping">
-    <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/ProxySeller.png" class="ad">
-  </a>
   <a href="http://mangoproxy.com/?utm_source=D4Vinci&utm_medium=GitHub&utm_campaign=D4Vinci" target="_blank" title="Proxies You Can Rely On: Residential, Server, and Mobile">
     <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/MangoProxy.png" class="ad">
   </a>
   <a href="https://www.swiftproxy.net/?ref=D4Vinci" target="_blank" title="Scalable Solutions for Web Data Access">
     <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/SwiftProxy.png" class="ad">
+  </a>
+  <a href="https://9proxy.com/pricing?tab=traffic&utm_source=Github&utm_campaign=D4vinci" target="_blank" title="Top-Tier Residential Proxy Solution for the Highest Success Rate">
+    <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/9proxy.png" class="ad">
   </a>
   <br />
   <br />

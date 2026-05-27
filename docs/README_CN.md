@@ -85,6 +85,15 @@ MySpider().start()
 <table>
   <tr>
     <td width="200">
+      <a href="https://coldproxy.com/" target="_blank" title="Residential, IPv6 & Datacenter Proxies for Web Scraping">
+        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/coldproxy.png">
+      </a>
+    </td>
+    <td> <a href="https://coldproxy.com/" target="_blank"><b>ColdProxy</b></a> 提供住宅代理和数据中心代理，用于稳定的网络抓取、公共数据收集，以及覆盖 195 多个国家/地区的地理定向测试。
+    </td>
+  </tr>
+  <tr>
+    <td width="200">
       <a href="https://hypersolutions.co/?utm_source=github&utm_medium=readme&utm_campaign=scrapling" target="_blank" title="Bot Protection Bypass API for Akamai, DataDome, Incapsula & Kasada">
         <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/HyperSolutions.png">
       </a>
@@ -161,16 +170,6 @@ MySpider().start()
   </tr>
   <tr>
     <td width="200">
-      <a href="https://proxy-seller.com/?partner=CU9CAA5TBYFFT2" target="_blank" title="Proxy-Seller provides reliable proxy infrastructure for Web Scraping">
-        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/ProxySeller.png">
-      </a>
-    </td>
-    <td>
-    <a href="https://proxy-seller.com/?partner=CU9CAA5TBYFFT2" target="_blank">Proxy-Seller</a> 提供可靠的网页抓取代理基础设施，包括 IPv4、IPv6、ISP、住宅和移动代理，具备稳定性能、广泛的地理覆盖和灵活的企业级数据采集方案。
-    </td>
-  </tr>
-  <tr>
-    <td width="200">
       <a href="http://mangoproxy.com/?utm_source=D4Vinci&utm_medium=GitHub&utm_campaign=D4Vinci" target="_blank" title="Proxies You Can Rely On: Residential, Server, and Mobile">
         <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/MangoProxy.png">
       </a>
@@ -189,6 +188,16 @@ MySpider().start()
     <a href="https://www.swiftproxy.net/?ref=D4Vinci" target="_blank">Swiftproxy</a> 提供可扩展的住宅代理，覆盖 195+ 国家/地区的 8000 万+ IP，提供快速可靠的连接、自动轮换和强大的反屏蔽性能。提供免费试用。
     </td>
   </tr>
+  <tr>
+    <td width="200">
+      <a href="https://9proxy.com/pricing?tab=traffic&utm_source=Github&utm_campaign=D4vinci" target="_blank" title="Top-Tier Residential Proxy Solution for the Highest Success Rate">
+        <img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/9proxy.png">
+      </a>
+    </td>
+    <td>
+    <a href="https://9proxy.com/pricing?tab=traffic&utm_source=Github&utm_campaign=D4vinci" target="_blank">9Proxy</a> 提供住宅代理，价格低至每个 IP 仅 $0.015 或每 GB $0.68。覆盖 90+ 国家/地区的 2000 万+ IP。支持固定或轮换会话，可通过桌面或移动应用进行管理。
+    </td>
+  </tr>
 </table>
 
 <i><sub>想在这里展示您的广告吗？点击 [这里](https://github.com/sponsors/D4Vinci/sponsorships?tier_id=586646)</sub></i>
@@ -201,8 +210,9 @@ MySpider().start()
 <a href="https://hasdata.com/?utm_source=github&utm_medium=banner&utm_campaign=D4Vinci" target="_blank" title="The web scraping service that actually beats anti-bot systems!"><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/hasdata.png"></a>
 <a href="https://proxyempire.io/?ref=scrapling&utm_source=scrapling" target="_blank" title="Collect The Data Your Project Needs with the Best Residential Proxies"><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/ProxyEmpire.png"></a>
 <a href="https://www.webshare.io/?referral_code=48r2m2cd5uz1" target="_blank" title="The Most Reliable Proxy with Unparalleled Performance"><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/webshare.png"></a>
-<a href="https://www.crawleo.dev/?utm_source=github&utm_medium=sponsor&utm_campaign=scrapling" target="_blank" title="Supercharge your AI with Real-Time Web Intelligence"><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/crawleo.png"></a>
-<a href="https://www.rapidproxy.io/?ref=d4v" target="_blank" title="Affordable Access to the Proxy World – bypass CAPTCHAs blocks, and avoid additional costs."><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/rapidproxy.jpg"></a>
+<a href="https://www.ipfoxy.com/?r=scrapling" target="_blank" title="Unlock the Full Potential of Global Business with IPFoxy's High-Quality Rotating and Dedicated Proxy Services."><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/IPFoxy.jpg"></a>
+<a href="https://www.ipcook.com/?ref=EAENO9&utm_source=github&utm_medium=referral&utm_campaign=d4vinci_scrapling" target="_blank" title="Fast Proxies. Smart Pricing. Premium Performance."><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/IPCook.png"></a>
+<a href="https://proxiware.com/?ref=scrapling" target="_blank" title="Collect Any Data. At Any Scale."><img src="https://raw.githubusercontent.com/D4Vinci/Scrapling/main/images/proxiware.png"></a>
 
 
 <!-- /sponsors -->
