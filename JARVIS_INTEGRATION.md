@@ -87,4 +87,5 @@ Do this quarterly or when upstream ships a bypass for a new anti-bot system we c
 
 - License: BSD (per `tools/scrapling/LICENSE`)
 - Docs: https://scrapling.readthedocs.io/
-- Version pinned: `0.4.6` (see `pyproject.toml`)
+- Version pinned: `0.4.8` (see `pyproject.toml`)
+- Last sync: 2026-05-27 — merged upstream v0.4.6 → v0.4.7 → v0.4.8 (screenshot MCP tool, CrawlSpider, SitemapSpider, LinkExtractor, fingerprint refresh)
