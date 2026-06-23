@@ -9,7 +9,7 @@ Our fork: [chadronbryant/Scrapling](https://github.com/chadronbryant/Scrapling).
 - **Stealth browser fetches** (`patchright`) that bypass Cloudflare Turnstile and most anti-bot walls.
 - **Dynamic/full-browser scraping** (Playwright 1.58) for JS-heavy SPAs.
 - **Adaptive selectors** that survive site redesigns.
-- **MCP server** exposing `get`, `bulk_get`, `fetch`, `bulk_fetch`, `stealthy_fetch`, `bulk_stealthy_fetch`, `dynamic_fetch`, `bulk_dynamic_fetch` tools (from `scrapling.core.ai:ScraplingMCPServer`).
+- **MCP server** (v0.4.9, FastMCP 1.28) exposing 10 tools: `get`, `bulk_get`, `fetch`, `bulk_fetch`, `stealthy_fetch`, `bulk_stealthy_fetch`, `screenshot`, plus session tools `open_session`, `close_session`, `list_sessions` (from `scrapling.core.ai:ScraplingMCPServer`).
 
 ## Layout
 
@@ -87,5 +87,6 @@ Do this quarterly or when upstream ships a bypass for a new anti-bot system we c
 
 - License: BSD (per `tools/scrapling/LICENSE`)
 - Docs: https://scrapling.readthedocs.io/
-- Version pinned: `0.4.8` (see `pyproject.toml`)
-- Last sync: 2026-05-27 — merged upstream v0.4.6 → v0.4.7 → v0.4.8 (screenshot MCP tool, CrawlSpider, SitemapSpider, LinkExtractor, fingerprint refresh)
+- Version pinned: `0.4.9` (see `pyproject.toml`)
+- Last sync: 2026-06-23 — merged upstream v0.4.8 → v0.4.9 (CLI `--version` flag, refreshed browsers/fingerprints, session `proxy` IP-leak fix, charset/encoding detection fix, Windows checkpoint fix). Run `scrapling install --force` after updating to refresh browsers.
+- Prior sync: 2026-05-27 — v0.4.6 → v0.4.8 (screenshot MCP tool, CrawlSpider, SitemapSpider, LinkExtractor, fingerprint refresh)
